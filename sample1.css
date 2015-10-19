@@ -1,0 +1,25 @@
+body {
+    background-size: cover;
+}
+
+h1 {
+    font-family: 標楷體, comic sans ms, arial, ;
+    color: #1837EE;
+}
+
+h2,
+h3,
+h4.h41 {
+    font-family: 標楷體, comic sans ms, arial, ;
+    color: #ff3333;
+}
+
+h3.h31,
+h4.h42 {
+    font-family: 標楷體, comic sans ms, arial, ;
+    color: #ff3366;
+}
+
+a {
+    font-family: 標楷體, comic sans ms, arial, ;
+}

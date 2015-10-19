@@ -1,0 +1,14 @@
+body {
+    background-size: cover;
+}
+
+h1 {
+    font-family: arial black;
+    font-size: 70px;
+}
+
+p {
+    font-family: comic sans ms, arial, 標楷體;
+    font-size: 28px;
+    color: gray;
+}
